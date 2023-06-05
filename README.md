@@ -7,15 +7,27 @@ Author (s) can submit articles electronically round the year. The Editors reserv
 After the final acceptance of the article, based upon the detailed review process and submission of required documents, the article will be published online immediately. However, the assignment of the article of specific issue (see archive) will be taken up by the editors later; and the authors will be intimated accordingly. For theme based special issues, time bound special calls for articles will be announced.
 
 **Website:** www.ijisme.org
+
 **ISSN:** 2319-6386 (Online)
+
 **Journal DOI:** https://doi.org/10.35940/ijisme
+
 **Publishing Frequency:** 12 Issue per year (Monthly: January, February, March, April, May, June, July, August, September, October, November and December)
+
 **Published By:** Blue Eyes Intelligence Engineering and Sciences Publication (BEIESP)
+
 **First Volume/Issue Publishing Year:** 2012
+
 **Journal Starting Year:** 2012
+
 **Publication Language:** English
+
 **Primary Field:** Science, Engineering and Technology
+
 **CrossRef:** Yes
+
 **Guidelines for Authors:** https://www.ijisme.org/instructions-for-authors/
+
 **Editorial and Publishing Policies:** https://www.ijisme.org/ethics-policies/
+
 **Publisher License under:** CC-BY-NC-ND 4.0
